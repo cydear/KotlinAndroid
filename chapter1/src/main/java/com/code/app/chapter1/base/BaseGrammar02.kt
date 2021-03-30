@@ -18,4 +18,6 @@ fun main(args: Array<String>) {
         Book("Dive into Kotlin")
     ).map(Book::name)
     println(bookName)
+
+    println(bookName)
 }

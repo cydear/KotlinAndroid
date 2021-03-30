@@ -3,7 +3,6 @@ package com.code.app.chapter1.coroutines
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
-import kotlin.system.measureTimeMillis
 
 /**
  * @ClassName KotlinCoroutines1
