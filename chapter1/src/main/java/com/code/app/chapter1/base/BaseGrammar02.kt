@@ -16,6 +16,7 @@ fun main(args: Array<String>) {
     val bookName = listOf<Book>(
         Book("Thinking in Java"),
         Book("Dive into Kotlin"),
+        Book("Dive into Kotlin"),
         Book("Dive into Kotlin")
     ).map(Book::name)
     println(bookName)
